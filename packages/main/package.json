@@ -37,5 +37,6 @@
 		"lerna": "^7.1.5",
 		"prettier": "^3.0.2",
 		"typescript": "^5.1.6"
-	}
+	},
+	"gitHead": "f8d80be0eda564f99217b99aa1c3f19d76cb5bb9"
 }
